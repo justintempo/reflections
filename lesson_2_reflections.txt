@@ -5,3 +5,19 @@ It's the first step in setting up a repository for your directory.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It's a middle ground between the working directory and the repository. It's like purgatory for new commits.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Not sure with this one. I guess making you add one file at a time forces you to think about real changes?
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you've got a big experimental change that you want to try, or you've got several different versions of the same project that you want to develop in parallel.
+
+How do the diagrams help you visualize the branch structure?
+
+They help you understand where and how you branched off.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It combines all of the changes from the two versions automatically. 
